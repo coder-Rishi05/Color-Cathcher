@@ -5,12 +5,10 @@ A simple and interactive web-based game built using HTML, CSS, and JavaScript. T
 ---
 
 ## 🚀 Live Demo
-You can host it using GitHub Pages or locally via your browser.
 
 ---
 
 ## 📂 Project Structure
-
 
 ```
 
