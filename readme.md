@@ -69,4 +69,4 @@ grid.innerHTML = ""; // clears the grid
 ### 2. **Array Elements Swapping Manipulation**
 
 
-### 3. **Query selectors**
+### 3. **Query selectors and eventListners**
